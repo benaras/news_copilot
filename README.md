@@ -1,4 +1,4 @@
-# News Co-Pilot: Personalized News Recommendation System
+# News Co-Pilot: AI Agent for the News 
 
 ## Project Overview
 News Co-Pilot is an AI-powered platform designed to personalize news content for users. By leveraging machine learning and natural language processing (NLP) techniques, the system classifies news articles and tailors recommendations based on user preferences. The project uses public datasets and cutting-edge AI methodologies to address the challenge of information overload in today’s digital age.

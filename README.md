@@ -18,6 +18,7 @@ News Co-Pilot is an AI-powered platform designed to personalize news content for
 ### Data Collection
 - **Dataset Used**: BBC News Articles dataset from Kaggle.
 - The dataset contains articles with associated topics for supervised learning.
+- https://www.kaggle.com/c/learn-ai-bbc/data?select=BBC+News+Test.csv 
 
 ### Data Preprocessing
 - Text cleaning (removal of stopwords, punctuation, and special characters).

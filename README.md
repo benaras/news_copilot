@@ -77,7 +77,7 @@ News Co-Pilot is an AI-powered platform designed to personalize news content for
 
 ### Shachi Benara
 - Coordinated team tasks and set deadlines using GitHub and Google Colab.
--
+- Created the slideshow
 ### Yujia (Stella) Zhai
 - 
 

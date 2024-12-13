@@ -82,4 +82,5 @@ News Co-Pilot is an AI-powered platform designed to personalize news content for
 - 
 
 ### Henok Misgina (Henok) Fisseha
-- 
+- Designed and Implemented the use machine learning models for multi-class news  classification using scikit learn models and Python computation libraries
+- Completed Data Analysis, Manipulation, and Visualization steps using the Python Pandas Library

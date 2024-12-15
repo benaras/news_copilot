@@ -76,10 +76,13 @@ News Co-Pilot is an AI-powered platform designed to personalize news content for
 ## Individual Contributions
 
 ### Shachi Benara
-- Coordinated team tasks and set deadlines using GitHub and Google Colab.
-- Created the slideshow
+- Coordinated team tasks and managed deadlines through GitHub and Google Colab.
+- Designed and created the presentation slideshow.
+- Developed and implemented machine learning models, including Logistic Regression and Naive Bayes, for news classification.
+  
 ### Yujia (Stella) Zhai
-- 
+- Implemented the AI agent for personalized content delivery.
+- Researched API integration and designed prompts for model interactions.
 
 ### Henok Misgina (Henok) Fisseha
 - Designed and Implemented the use machine learning models for multi-class news  classification using scikit learn models and Python computation libraries
